@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "967089772120",
+    "project_id": "insurance-dfcae",
+    "storage_bucket": "insurance-dfcae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967089772120:android:edcb0327ac8b4f723b5c2d",
+        "android_client_info": {
+          "package_name": "com.insurance.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967089772120-qv97nncesmrh9uq4get8p04neqoag5mk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insurance.app",
+            "certificate_hash": "22488a59eec26c7832ffa821061f06c936bf3944"
+          }
+        },
+        {
+          "client_id": "967089772120-107l13mp06upjt327kqb9gm80gec55ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDse7lyTHL6VtpCEwSb4Pvx-CHTvRINf_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967089772120-107l13mp06upjt327kqb9gm80gec55ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
